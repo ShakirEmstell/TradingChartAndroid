@@ -4,7 +4,7 @@ Candle stick chart like tradingview using android canvas
 
 usage
 
-[![Screenshot](https://github.com/ShakirEmstell/Diet-Graph-View-Android/raw/main/device-2021-10-21-200822.png)](#features)
+[![Screenshot](https://github.com/ShakirEmstell/TradingChartAndroid/raw/main/device-2021-10-21-200822.png)](#features)
 
 
 <shakir.bhav.android.ChartView
