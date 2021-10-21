@@ -5,7 +5,6 @@ Candle stick chart like tradingview using android canvas
 usage
 
  <shakir.bhav.android.ChartView
-
         android:id="@+id/tradingChart"
         android:background="#2B2B2B"
         android:layout_width="match_parent"
