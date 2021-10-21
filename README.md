@@ -12,13 +12,13 @@ usage
         
         
         
-            tradingChart.priceTop = resp?.h!!.maxOf { it }
-            tradingChart.priceBottom = resp?.l!!.minOf { it }
-            tradingChart.timeStart=resp.t.first()
-            tradingChart.timeEnd=resp.t.last()
-            tradingChart.t=resp.t
-            tradingChart.h=resp.h
-            tradingChart.l=resp.l
-            tradingChart.c=resp.c
-            tradingChart.o=resp.o
+            tradingChart.priceTop = response?.h!!.maxOf { it }
+            tradingChart.priceBottom = response?.l!!.minOf { it }
+            tradingChart.timeStart=response.t.first()
+            tradingChart.timeEnd=response.t.last()
+            tradingChart.t=response.t
+            tradingChart.h=response.h
+            tradingChart.l=response.l
+            tradingChart.c=response.c
+            tradingChart.o=response.o
             tradingChart.invalidate()
