@@ -2,10 +2,11 @@
 Candle stick chart like tradingview using android canvas
 
 
-usage
+
 
 [![Screenshot](https://github.com/ShakirEmstell/TradingChartAndroid/raw/main/device-2021-10-21-200822.png)](#features)
 
+usage
 
 <shakir.bhav.android.ChartView
  android:id="@+id/tradingChart"
